@@ -1,4 +1,4 @@
-Conclusions we can draw from the data
+Conclusions we can draw from the data:
 1. Based on the percentage of students with both passing math and reading scores, the top five scholls are all charter schools. And detailed data comparison between charter schools and district schools also shows that students from charter schools perform better in math and reading.
 2. Schools of different sizes perform differently.Generally speaking, the more students the school has, the worse the students perform in math and reading.
 3. The data also reveals a trend that schools with more budget per student tend to perform worse. This could be misleading as there is not much variance in the budget per student across the schools and the scholls with more budget per student are all district schools which in general perform worse than charter schools . It is the school type rather than the budget per student which plays an important role here. 
